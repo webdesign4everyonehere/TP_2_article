@@ -1,0 +1,759 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.15)  7 NOV 2025 19:49
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./article.tex
+(article.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(mystyle.sty
+Package: mystyle 2025/10/27 Package pour sections colorÃ©es
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+) (C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box51
+\beforetitleunit=\skip50
+\aftertitleunit=\skip51
+\ttl@plus=\dimen141
+\ttl@minus=\dimen142
+\ttl@toksa=\toks17
+\titlewidth=\dimen143
+\titlewidthlast=\dimen144
+\titlewidthfirst=\dimen145
+) (C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count195
+\calc@Bcount=\count196
+\calc@Adimen=\dimen146
+\calc@Bdimen=\dimen147
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count197
+\calc@Cskip=\skip54
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen148
+\ar@mcellbox=\box52
+\extrarowheight=\dimen149
+\NC@list=\toks18
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box53
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count198
+\Gm@cntv=\count199
+\c@Gm@tempcnt=\count266
+\Gm@bindingoffset=\dimen152
+\Gm@wd@mp=\dimen153
+\Gm@odd@mp=\dimen154
+\Gm@even@mp=\dimen155
+\Gm@layoutwidth=\dimen156
+\Gm@layoutheight=\dimen157
+\Gm@layouthoffset=\dimen158
+\Gm@layoutvoffset=\dimen159
+\Gm@dimlist=\toks20
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+\babel@savecnt=\count267
+\U@D=\dimen160
+\l@unhyphenated=\language79
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count268
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french.ld
+f
+Language: french 2025-08-15 v4.0e French support from the babel system
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french3.l
+df
+Language: french 2025-08-15 v3.7e French support from the babel system
+\FB@stdchar=\count269
+Package babel Info: Making : an active character on input line 273.
+Package babel Info: Making ; an active character on input line 274.
+Package babel Info: Making ! an active character on input line 275.
+Package babel Info: Making ? an active character on input line 276.
+\FBguill@level=\count270
+\FBold@everypar=\toks23
+\FB@Mht=\dimen161
+\mc@charclass=\count271
+\mc@charfam=\count272
+\mc@charslot=\count273
+\std@mcc=\count274
+\dec@mcc=\count275
+\FB@pardim=\dimen162
+\listindentFB=\dimen163
+\descindentFB=\dimen164
+\labelindentFB=\dimen165
+\labelwidthFB=\dimen166
+\leftmarginFB=\dimen167
+\parindentFFN=\dimen168
+\FBfnindent=\dimen169
+)))
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\babel-
+french.tex
+Package babel Info: Importing font and identification data for french
+(babel)             from babel-fr.ini. Reported on input line 11.
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip57
+\f@nch@offset@elh=\skip58
+\f@nch@offset@erh=\skip59
+\f@nch@offset@olh=\skip60
+\f@nch@offset@orh=\skip61
+\f@nch@offset@elf=\skip62
+\f@nch@offset@erf=\skip63
+\f@nch@offset@olf=\skip64
+\f@nch@offset@orf=\skip65
+\f@nch@height=\skip66
+\f@nch@footalignment=\skip67
+\f@nch@widthL=\skip68
+\f@nch@widthC=\skip69
+\f@nch@widthR=\skip70
+\@temptokenb=\toks24
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/abstract\abstract.sty
+Package: abstract 2009/06/08 v1.2a configurable abstracts
+\abstitleskip=\skip71
+\absleftindent=\skip72
+\absrightindent=\skip73
+\absparindent=\skip74
+\absparsep=\skip75
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen170
+\lightrulewidth=\dimen171
+\cmidrulewidth=\dimen172
+\belowrulesep=\dimen173
+\belowbottomsep=\dimen174
+\aboverulesep=\dimen175
+\abovetopsep=\dimen176
+\cmidrulesep=\dimen177
+\cmidrulekern=\dimen178
+\defaultaddspace=\dimen179
+\@cmidla=\count276
+\@cmidlb=\count277
+\@aboverulesep=\dimen180
+\@belowrulesep=\dimen181
+\@thisruleclass=\count278
+\@lastruleclass=\count279
+\@thisrulewidth=\dimen182
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip76
+\enit@outerparindent=\dimen183
+\enit@toks=\toks25
+\enit@inbox=\box54
+\enit@count@id=\count280
+\enitdp@description=\count281
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip77
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks26
+\ex@=\dimen184
+))
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen185
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count282
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count283
+\leftroot@=\count284
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count285
+\DOTSCASE@=\count286
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen186
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count287
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count288
+\dotsspace@=\muskip16
+\c@parentequation=\count289
+\dspbrk@lvl=\count290
+\tag@help=\toks27
+\row@=\count291
+\column@=\count292
+\maxfields@=\count293
+\andhelp@=\toks28
+\eqnshift@=\dimen187
+\alignsep@=\dimen188
+\tagshift@=\dimen189
+\tagwidth@=\dimen190
+\totwidth@=\dimen191
+\lineht@=\dimen192
+\@envbody=\toks29
+\multlinegap=\skip78
+\multlinetaggap=\skip79
+\mathdisplay@stack=\toks30
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count294
+\float@exts=\toks31
+\float@box=\box57
+\@float@everytoks=\toks32
+\@floatcapt=\box58
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks33
+\c@algorithm=\count295
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algpseudoco
+de.sty
+Package: algpseudocode 
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algorithmic
+x.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count296
+\c@ALG@rem=\count297
+\c@ALG@nested=\count298
+\ALG@tlm=\skip80
+\ALG@thistlm=\skip81
+\c@ALG@Lnr=\count299
+\c@ALG@blocknr=\count300
+\c@ALG@storecount=\count301
+\c@ALG@tmpcounter=\count302
+\ALG@tmplength=\skip82
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.st
+y
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinek
+eys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.st
+y
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.
+sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.
+sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitl
+estring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count303
+) (C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count304
+)
+\@linkdim=\dimen193
+\Hy@linkcounter=\count305
+\Hy@pagecounter=\count306
+ (C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count307
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4181.
+Package hyperref Info: Link nesting OFF on input line 4186.
+Package hyperref Info: Hyper index ON on input line 4189.
+Package hyperref Info: Plain pages OFF on input line 4196.
+Package hyperref Info: Backreferencing OFF on input line 4201.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4448.
+\c@Hy@tempcnt=\count308
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4786.
+\XeTeXLinkMargin=\dimen194
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.
+sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count309
+\Field@Width=\dimen195
+\Fld@charsize=\dimen196
+Package hyperref Info: Hyper figures OFF on input line 6065.
+Package hyperref Info: Link nesting OFF on input line 6070.
+Package hyperref Info: Hyper index ON on input line 6073.
+Package hyperref Info: backreferencing OFF on input line 6080.
+Package hyperref Info: Link coloring OFF on input line 6085.
+Package hyperref Info: Link coloring with OCG OFF on input line 6090.
+Package hyperref Info: PDF/A mode OFF on input line 6095.
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count310
+\c@Item=\count311
+\c@Hfootnote=\count312
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count313
+\c@bookmark@seq@number=\count314
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfile
+check.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqueco
+unter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip83
+))
+Package french3.ldf Info: Setting StandardItemizeEnv=true for
+(french3.ldf)             compatibility with enumitem package,
+(french3.ldf)             reported on input line 16.
+Package french3.ldf Info: Setting StandardEnumerateEnv=true for
+(french3.ldf)             compatibility with enumitem package,
+(french3.ldf)             reported on input line 16.
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count315
+\l__pdf_internal_box=\box59
+) (article.aux)
+\openout1 = `article.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count316
+\scratchdimen=\dimen197
+\scratchbox=\box60
+\nofMPsegments=\count317
+\nofMParguments=\count318
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count319
+\MPscratchDim=\dimen198
+\MPnumerator=\count320
+\makeMPintoPDFobject=\count321
+\everyMPtoPDFconversion=\toks35
+)
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Sara\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
+g
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(51.21504pt, 495.07779pt, 51.21504pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=495.07779pt
+* \textheight=731.23584pt
+* \oddsidemargin=-21.05495pt
+* \evensidemargin=-21.05495pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=15.00002pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \degres on input line 16.
+Package hyperref Info: Link coloring OFF on input line 16.
+(article.out) (article.out)
+\@outlinefile=\write3
+\openout3 = `article.out'.
+
+\abstractwidth=\skip84
+\abstractnamewidth=\skip85
+\abstractLength=\skip86
+<Processus dÃ©cisionnel.png, id=54, 708.39656pt x 350.05782pt>
+File: Processus dÃ©cisionnel.png Graphic file (type png)
+<use Processus dÃ©cisionnel.png>
+Package pdftex.def Info: Processus dÃ©cisionnel.png  used on input line 53.
+(pdftex.def)             Requested size: 240.03014pt x 170.71793pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 65--66
+\T1/cmr/m/n/10 tui-tion et l'ex-pé-rience des ma-na-gers. Au-jour-d'hui,
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 65--66
+\T1/cmr/m/n/10 elles s'ap-puient da-van-tage sur des don-nées quan-
+ []
+
+
+Underfull \hbox (badness 2717) in paragraph at lines 65--66
+\T1/cmr/m/n/10 ti-ta-tives is-sues de mul-tiples sources (ré-seaux so-
+ []
+
+<Principales sources de donnÃ©es.png, id=58, 706.89093pt x 349.305pt>
+File: Principales sources de donnÃ©es.png Graphic file (type png)
+<use Principales sources de donnÃ©es.png>
+Package pdftex.def Info: Principales sources de donnÃ©es.png  used on input lin
+e 74.
+(pdftex.def)             Requested size: 240.03772pt x 170.71855pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[1{C:/Users/Sara/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+
+ <./Processus dÃ©cisionnel.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+[]|\T1/cmr/bx/n/10 Entreprise
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+[]|\T1/cmr/bx/n/10 Entreprise
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 121--121
+[]|\T1/cmr/m/n/10 Prise de dé-ci-
+ []
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 123--124
+[]|\T1/cmr/m/n/10 Rapide et pré-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+[]|\T1/cmr/m/n/10 Internes et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+\T1/cmr/m/n/10 ex-ternes (Big
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+[]|\T1/cmr/m/n/10 +23% (se-lon
+ []
+
+
+Overfull \hbox (1.08087pt too wide) in paragraph at lines 127--128
+\T1/cmr/m/n/10 [[]])| 
+ []
+
+
+Overfull \hbox (7.19649pt too wide) in paragraph at lines 113--132
+ [][] 
+ []
+
+
+Underfull \hbox (badness 2512) in paragraph at lines 139--139
+|[]\T1/cmr/bx/n/10 Illustration ma-thé-ma-tique de la per-for-
+ []
+
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 166.
+
+Underfull \hbox (badness 4416) in paragraph at lines 220--221
+[]|\T1/cmr/m/n/10 Coût élevé des in-fra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--222
+[]|\T1/cmr/m/n/10 Anticipation des ten-
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 222--223
+[]|\T1/cmr/m/n/10 Besoin de com-pé-tences
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
+[]|\T1/cmr/m/n/10 Personnalisation des
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+[]|\T1/cmr/m/n/10 Questions éthiques
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+\T1/cmr/m/n/10 et de confi-den-tia-lité
+ []
+
+[2 <./Principales sources de donnÃ©es.png>] (article.bbl
+Underfull \hbox (badness 1521) in paragraph at lines 4--8
+[]\T1/cmr/m/n/10 Davenport, T. H. and
+ []
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 16--19
+[]\T1/cmr/m/n/10 Laclau, S. (2020).  Gou-ver-nance et
+ []
+
+) [3
+
+] (article.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+Package rerunfilecheck Info: File `article.out' has not changed.
+(rerunfilecheck)             Checksum: 31F4D57EC9B56F4F7E055EFE038F8C1B;2517.
+ ) 
+Here is how much of TeX's memory you used:
+ 14127 strings out of 474486
+ 226738 string characters out of 5744226
+ 1948542 words of memory out of 5000000
+ 36189 multiletter control sequences out of 15000+600000
+ 571170 words of font info for 65 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 90i,11n,93p,846b,468s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Sara\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0
+800.pk> <C:\Users\Sara\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
+ecti1000.pk> <C:\Users\Sara\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dp
+i600\eccc1000.pk> <C:\Users\Sara\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/
+ec/dpi600\ecrm1000.pk> <C:\Users\Sara\AppData\Local\MiKTeX\fonts/pk/ljfour/jkna
+ppen/ec/dpi600\ecbx1000.pk> <C:\Users\Sara\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\Sara\AppData\Local\MiKTeX\fonts/pk/l
+jfour/jknappen/ec/dpi600\ecxc0900.pk> <C:\Users\Sara\AppData\Local\MiKTeX\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Sara\AppData\Local\MiKTeX\
+fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk><C:/Users/Sara/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Sara/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Sara/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/
+Sara/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on article.pdf (3 pages, 805305 bytes).
+PDF statistics:
+ 419 PDF objects out of 1000 (max. 8388607)
+ 24 named destinations out of 1000 (max. 500000)
+ 107 words of extra memory for PDF output out of 10000 (max. 10000000)
+
